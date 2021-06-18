@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BetweenTwoWays.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9C63ED96-42FA-45EC-8C83-3151D1A4C322}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BetweenTwoWays.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BetweenTwoWaysEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{03511346-1685-4585-976D-F808C63F093D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BetweenTwoWays">
+      <UniqueIdentifier>{A3FF2EE0-DCBC-467B-9E48-AFDB49ABD3B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BetweenTwoWays\BetweenTwoWays.Build.cs">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BetweenTwoWays\BetweenTwoWays.cpp">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BetweenTwoWays\BetweenTwoWays.h">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysCharacter.cpp">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysCharacter.h">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysGameMode.cpp">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysGameMode.h">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysHUD.cpp">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysHUD.h">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysProjectile.cpp">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BetweenTwoWays\BetweenTwoWaysProjectile.h">
+      <Filter>Source\BetweenTwoWays</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

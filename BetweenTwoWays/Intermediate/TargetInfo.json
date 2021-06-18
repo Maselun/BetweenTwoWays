@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BetweenTwoWays",
+			"Path": "C:\\Users\\228be\\OneDrive\\Programming\\BetweenTwoWays\\BetweenTwoWays\\Source\\BetweenTwoWays.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BetweenTwoWaysEditor",
+			"Path": "C:\\Users\\228be\\OneDrive\\Programming\\BetweenTwoWays\\BetweenTwoWays\\Source\\BetweenTwoWaysEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

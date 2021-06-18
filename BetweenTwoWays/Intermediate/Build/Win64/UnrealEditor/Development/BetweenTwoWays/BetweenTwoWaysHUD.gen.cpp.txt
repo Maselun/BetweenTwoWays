@@ -1,0 +1,10 @@
+C:\Users\228be\OneDrive\Programming\BetweenTwoWays\BetweenTwoWays\Intermediate\Build\Win64\UnrealEditor\Development\BetweenTwoWays\Definitions.BetweenTwoWays.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\228be\OneDrive\Programming\BetweenTwoWays\BetweenTwoWays\Source\BetweenTwoWays/BetweenTwoWaysHUD.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\HUD.generated.h
+C:\Users\228be\OneDrive\Programming\BetweenTwoWays\BetweenTwoWays\Intermediate\Build\Win64\UnrealEditor\Inc\BetweenTwoWays\BetweenTwoWaysHUD.generated.h
